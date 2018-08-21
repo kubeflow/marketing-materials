@@ -1,0 +1,10 @@
+# TODO(jlewi): We should probably have OWNERs files in subdirectories that 
+# list approvers for individual components (e.g. Seldon folks for Seldon component)
+approvers:
+  - aronchick
+  - jlewi
+  - texasmichelle
+reviewers:
+  - aronchick
+  - jlewi
+  - texasmichelle
